@@ -17,28 +17,25 @@ Cada alumno debe editar este fichero para incluir sus datos. Se ruega respetar e
 
 * Francisco javier Aranda Jiménez
 * Ismael Armada González
-Ián Banderas Tomillo
-Samuel Blanco Palmero
-Gheorghe Bucurici
-Rubén Galán Pérez
-Isabel Gómez de Travecedo Méndez
-Sebastián González Ríos
-Francisco josé Gutiérrez Castro
-Juan Pedro Mancera Taboada
-Cesar Julio Martín González
-Pablo Mérida Egea
-María Teresa Milánes Barroso
-Javier Moreno Aguilera
-Nicolás Moreno Sánchez
-José Manuel Morón Jurado
-Jorge Muñoz Cabrera
-Jesús María Olalla Pérez
-Álvaro Ramírez Escribano
-Francisco Javier Rriveros Racero
-Ariel Hernán Rojas Favero
-
-
-
+* Ián Banderas Tomillo
+* Samuel Blanco Palmero
+* Gheorghe Bucurici
+* Rubén Galán Pérez
+* Isabel Gómez de Travecedo Méndez
+* Sebastián González Ríos
+* Francisco josé Gutiérrez Castro
+* Juan Pedro Mancera Taboada
+* Cesar Julio Martín González
+* Pablo Mérida Egea
+* María Teresa Milánes Barroso
+* Javier Moreno Aguilera
+* Nicolás Moreno Sánchez
+* José Manuel Morón Jurado
+* Jorge Muñoz Cabrera
+* Jesús María Olalla Pérez
+* Álvaro Ramírez Escribano
+* Francisco Javier Rriveros Racero
+* Ariel Hernán Rojas Favero
 
 
 
@@ -46,11 +43,11 @@ Ariel Hernán Rojas Favero
 * [Indicaciones a la primera entrega]
 * [Indicaciones a la segunda entrega]
 
-## ✅ Indicaciones sobre el checkpoint del 14 de mayo del 2022
+## ✅ Indicaciones sobre el checkpoint del 13 de mayo del 2022
 * [Indicaciones sobre el checkpoint]
 
 ## 🗓️ Calendario fin de curso
-* [Acceso al calendario fin de curso](https://docs.google.com/document/d/1YUECtVGsCXCObxw-qq7QhTZ2DDvsi0_Wk2amDv5ReCw/edit)
+* [Acceso al calendario fin de curso]
 
 ## ⏰ Cuadrante horario de las exposiciones
 
