@@ -17,7 +17,6 @@ Cada alumno debe editar este fichero para incluir sus datos. Se ruega respetar e
 
 * Francisco javier Aranda Jiménez
 * Ismael Armada González
-* Ián Banderas Tomillo
 * Samuel Blanco Palmero
 * Gheorghe Bucurici
 * Rubén Galán Pérez
@@ -25,7 +24,6 @@ Cada alumno debe editar este fichero para incluir sus datos. Se ruega respetar e
 * Sebastián González Ríos
 * Francisco josé Gutiérrez Castro
 * Juan Pedro Mancera Taboada
-* Cesar Julio Martín González
 * Pablo Mérida Egea
 * María Teresa Milánes Barroso
 * Javier Moreno Aguilera
@@ -51,12 +49,24 @@ Cada alumno debe editar este fichero para incluir sus datos. Se ruega respetar e
 
 ## ⏰ Cuadrante horario de las exposiciones
 
-El día de las exposiciones será el **lunes 21 de junio de 2021**. La duración de cada exposición será de 10 minutos (5 de exposición y 5 de preguntas), dejando un margen de otros 5 minutos para el cambio. Se deberá llegar unos 5 minutos antes del inicio de la presentación. Aquellos alumnos que aún no hayan finalizado su FCT, asistirán al centro únicamente para la exposición, debiendo regresar posteriormente a sus prácticas en la empresa.
+El día de las exposiciones será el **lunes 20 de junio de 2021**. La duración de cada exposición será de 10 minutos (5 de exposición y 5 de preguntas), dejando un margen de otros 5 minutos para el cambio. Se deberá llegar unos 5 minutos antes del inicio de la presentación. Aquellos alumnos que aún no hayan finalizado su FCT, asistirán al centro únicamente para la exposición, debiendo regresar posteriormente a sus prácticas en la empresa.
 
-
+* 09:00
+* 09:15
+* 09:30
+* 09:45
+* 10:00
+* 10:15
+* 10:30
+* 10:45
+* 11:00
  🥪 D E S C A N S O ☕
-
-
+* 11:45
+* 12:00
+* 12:15
+* 12:30
+* 12:45
+* 13:00
 ## :school: Lugar de las exposiciones
 
 Las presentaciones tendrán lugar en el **salón de actos** de la [**Incubadora**](https://goo.gl/maps/VGMpWnnpCZJQbP21A) sito en C/ Frederik Termann, 3. 29590, PTA.
