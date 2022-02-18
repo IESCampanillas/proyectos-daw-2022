@@ -15,8 +15,8 @@ Cada alumno debe añadir su **apellido** y **nombre** por **orden alfabético** 
 Cada alumno debe editar este fichero para incluir sus datos. Se ruega respetar el orden de lista.
 
 
-Francisco javier Aranda Jiménez
-Ismael Armada González
+* Francisco javier Aranda Jiménez
+* Ismael Armada González
 Ián Banderas Tomillo
 Samuel Blanco Palmero
 Gheorghe Bucurici
