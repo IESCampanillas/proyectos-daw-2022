@@ -37,19 +37,15 @@ Cada alumno debe editar este fichero para incluir sus datos. Se ruega respetar e
 
 
 
-## 📝 Indicaciones anteproyectos
-* [Indicaciones a la primera entrega]
-* [Indicaciones a la segunda entrega]
+## 📝 Fechas a tener en cuenta
+* Anteproyecto: lunes 4 de abril
+* Revisión (checkpoint): viernes 13 de mayo
+* Exposiciones: lunes 20 de junio de 2022
 
-## ✅ Indicaciones sobre el checkpoint del 13 de mayo del 2022
-* [Indicaciones sobre el checkpoint]
-
-## 🗓️ Calendario fin de curso
-* [Acceso al calendario fin de curso]
 
 ## ⏰ Cuadrante horario de las exposiciones
 
-El día de las exposiciones será el **lunes 20 de junio de 2021**. La duración de cada exposición será de 10 minutos (5 de exposición y 5 de preguntas), dejando un margen de otros 5 minutos para el cambio. Se deberá llegar unos 5 minutos antes del inicio de la presentación. Aquellos alumnos que aún no hayan finalizado su FCT, asistirán al centro únicamente para la exposición, debiendo regresar posteriormente a sus prácticas en la empresa.
+El día de las exposiciones será el **lunes 20 de junio de 2022**. La duración de cada exposición será de 10 minutos (5 de exposición y 5 de preguntas), dejando un margen de otros 5 minutos para el cambio. Se deberá llegar unos 5 minutos antes del inicio de la presentación. Aquellos alumnos que aún no hayan finalizado su FCT, asistirán al centro únicamente para la exposición, debiendo regresar posteriormente a sus prácticas en la empresa.
 
 * 09:00
 * 09:15
