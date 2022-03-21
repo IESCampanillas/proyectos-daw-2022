@@ -17,12 +17,12 @@ Cada alumno debe editar este fichero para incluir sus datos. Se ruega respetar e
 
 * Francisco javier Aranda Jiménez
 * Ismael Armada González
+* Ián Banderas Tomillo
 * Samuel Blanco Palmero
 * Gheorghe Bucurici
 * Rubén Galán Pérez
 * Isabel Gómez de Travecedo Méndez
 * Sebastián González Ríos
-* Francisco josé Gutiérrez Castro
 * Juan Pedro Mancera Taboada
 * Pablo Mérida Egea
 * María Teresa Milánes Barroso
