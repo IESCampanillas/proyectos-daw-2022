@@ -57,7 +57,7 @@ El día de las exposiciones será el **lunes 20 de junio de 2022**. La duración
 * 10:45
 * 11:00
  🥪 D E S C A N S O ☕
-* 11:45
+* 11:45   
 * 12:00
 * 12:15
 * 12:30
