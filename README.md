@@ -26,7 +26,7 @@ Cada alumno debe editar este fichero para incluir sus datos. Se ruega respetar e
 * Juan Pedro Mancera Taboada - 
 * Pablo Mérida Egea - 
 * María Teresa Milánes Barroso - 
-* Javier Moreno Aguilera - 
+* Javier Moreno Aguilera - [Kubin](https://github.com/javmoreno-developer/Kubin)
 * Nicolás Moreno Sánchez - 
 * José Manuel Morón Jurado - 
 * Jorge Muñoz Cabrera - 
