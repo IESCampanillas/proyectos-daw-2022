@@ -19,7 +19,7 @@ Cada alumno debe editar este fichero para incluir sus datos. Se ruega respetar e
 * Ismael Armada González - 
 * Ián Banderas Tomillo - 
 * Samuel Blanco Palmero - 
-* Gheorghe Bucurici - 
+* Gheorghe Bucurici - [El Búho Sabio](https://github.com/GheorgheBci/ElBuhoSabio)
 * Rubén Galán Pérez - 
 * Isabel Gómez de Travecedo Méndez - 
 * Sebastián González Ríos - 
