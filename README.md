@@ -20,7 +20,7 @@ Cada alumno debe editar este fichero para incluir sus datos. Se ruega respetar e
 * Ián Banderas Tomillo - 
 * Samuel Blanco Palmero - 
 * Gheorghe Bucurici - 
-* Rubén Galán Pérez - 
+* Rubén Galán Pérez - [World Job](https://github.com/rubengalan97/World_Job)
 * Isabel Gómez de Travecedo Méndez - 
 * Sebastián González Ríos - 
 * Juan Pedro Mancera Taboada - 
