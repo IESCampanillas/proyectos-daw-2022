@@ -30,7 +30,7 @@ Cada alumno debe editar este fichero para incluir sus datos. Se ruega respetar e
 * Nicolás Moreno Sánchez - [django](https://github.com/nicoms13/django)
 * José Manuel Morón Jurado - 
 * Jorge Muñoz Cabrera - [Lizard](https://github.com/jorgeMunozCampanillas/Lizard/blob/main/README.md)
-* Jesús María Olalla Pérez - 
+* Jesús María Olalla Pérez - [NaturXtrem](https://github.com/Jeolpe/NaturXtrem)
 * Álvaro Ramírez Escribano - 
 * Francisco Javier Rriveros Racero - 
 * Ariel Hernán Rojas Favero - 
