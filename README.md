@@ -32,7 +32,7 @@ Cada alumno debe editar este fichero para incluir sus datos. Se ruega respetar e
 * Jorge Muñoz Cabrera - [Lizard](https://github.com/jorgeMunozCampanillas/Lizard/blob/main/README.md)
 * Jesús María Olalla Pérez - [NaturXtrem](https://github.com/Jeolpe/NaturXtrem)
 * Álvaro Ramírez Escribano - 
-* Francisco Javier Rriveros Racero - 
+* Francisco Javier Rriveros Racero - [CryptoAway](https://github.com/FJ-Riveros/CryptoAway)
 * Ariel Hernán Rojas Favero - 
 
 
