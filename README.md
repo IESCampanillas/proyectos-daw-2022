@@ -22,7 +22,7 @@ Cada alumno debe editar este fichero para incluir sus datos. Se ruega respetar e
 * Gheorghe Bucurici - [The Wise Owl](https://github.com/GheorgheBci/TheWiseOwl)
 * Rubén Galán Pérez - [World Job](https://github.com/rubengalan97/World_Job)
 * Isabel Gómez de Travecedo Méndez - 
-* Sebastián González Ríos - 
+* Sebastián González Ríos - [Freedom](https://github.com/SrCbas/Freedom)
 * Juan Pedro Mancera Taboada - 
 * Pablo Mérida Egea - 
 * María Teresa Milánes Barroso - [StoryFactory](https://github.com/MTeresaMB/StoryFactory)
