@@ -19,7 +19,7 @@ Cada alumno debe editar este fichero para incluir sus datos. Se ruega respetar e
 * Ismael Armada González - 
 * Ián Banderas Tomillo - 
 * Samuel Blanco Palmero - 
-* Gheorghe Bucurici - 
+* Gheorghe Bucurici - [The Wise Owl](https://github.com/GheorgheBci/TheWiseOwl)
 * Rubén Galán Pérez - [World Job](https://github.com/rubengalan97/World_Job)
 * Isabel Gómez de Travecedo Méndez - 
 * Sebastián González Ríos - 
