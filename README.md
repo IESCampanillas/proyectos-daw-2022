@@ -23,7 +23,7 @@ Cada alumno debe editar este fichero para incluir sus datos. Se ruega respetar e
 * Rubén Galán Pérez - [World Job](https://github.com/rubengalan97/World_Job)
 * Isabel Gómez de Travecedo Méndez - 
 * Sebastián González Ríos - [Freedom](https://github.com/SrCbas/Freedom)
-* Juan Pedro Mancera Taboada - 
+* Juan Pedro Mancera Taboada - [Shisha Word](https://github.com/juan2pedro/ShishaWord)
 * Pablo Mérida Egea - 
 * María Teresa Milánes Barroso - [StoryFactory](https://github.com/MTeresaMB/StoryFactory)
 * Javier Moreno Aguilera - [Kubin](https://github.com/javmoreno-developer/Kubin)
