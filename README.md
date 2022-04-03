@@ -18,7 +18,7 @@ Cada alumno debe editar este fichero para incluir sus datos. Se ruega respetar e
 * Francisco javier Aranda Jiménez - 
 * Ismael Armada González - 
 * Ián Banderas Tomillo - 
-* Samuel Blanco Palmero - 
+* Samuel Blanco Palmero - [SpaceBP](https://github.com/samubp10/SpaceBP)
 * Gheorghe Bucurici - [The Wise Owl](https://github.com/GheorgheBci/TheWiseOwl)
 * Rubén Galán Pérez - [World Job](https://github.com/rubengalan97/World_Job)
 * Isabel Gómez de Travecedo Méndez - 
@@ -28,7 +28,7 @@ Cada alumno debe editar este fichero para incluir sus datos. Se ruega respetar e
 * María Teresa Milánes Barroso - [StoryFactory](https://github.com/MTeresaMB/StoryFactory)
 * Javier Moreno Aguilera - [Kubin](https://github.com/javmoreno-developer/Kubin)
 * Nicolás Moreno Sánchez - [django](https://github.com/nicoms13/django)
-* José Manuel Morón Jurado - 
+* José Manuel Morón Jurado -[SpaceNeo](https://github.com/JMMJ0/Space-NEO)
 * Jorge Muñoz Cabrera - [Lizard](https://github.com/jorgeMunozCampanillas/Lizard/blob/main/README.md)
 * Jesús María Olalla Pérez - [NaturXtrem](https://github.com/Jeolpe/NaturXtrem)
 * Álvaro Ramírez Escribano - 
