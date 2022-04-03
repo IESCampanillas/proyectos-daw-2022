@@ -21,7 +21,7 @@ Cada alumno debe editar este fichero para incluir sus datos. Se ruega respetar e
 * Samuel Blanco Palmero - [SpaceBP](https://github.com/samubp10/SpaceBP)
 * Gheorghe Bucurici - [The Wise Owl](https://github.com/GheorgheBci/TheWiseOwl)
 * Rubén Galán Pérez - [World Job](https://github.com/rubengalan97/World_Job)
-* Isabel Gómez de Travecedo Méndez - 
+* Isabel Gómez de Travecedo Méndez - [S.T.I.C.K.E.R.S](https://github.com/isa-gdt/S.T.IC.K.E.R.S)
 * Sebastián González Ríos - [Freedom](https://github.com/SrCbas/Freedom)
 * Juan Pedro Mancera Taboada - [Shisha Word](https://github.com/juan2pedro/ShishaWord)
 * Pablo Mérida Egea - 
