@@ -24,7 +24,7 @@ Cada alumno debe editar este fichero para incluir sus datos. Se ruega respetar e
 * Isabel Gómez de Travecedo Méndez - [S.T.I.C.K.E.R.S](https://github.com/isa-gdt/S.T.IC.K.E.R.S)
 * Sebastián González Ríos - [Freedom](https://github.com/SrCbas/Freedom)
 * Juan Pedro Mancera Taboada - [Shisha Word](https://github.com/juan2pedro/ShishaWord)
-* Pablo Mérida Egea - 
+* Pablo Mérida Egea - [FitMe](https://github.com/Pablomerida2001/FitMe)
 * María Teresa Milánes Barroso - [StoryFactory](https://github.com/MTeresaMB/StoryFactory)
 * Javier Moreno Aguilera - [Kubin](https://github.com/javmoreno-developer/Kubin)
 * Nicolás Moreno Sánchez - [django](https://github.com/nicoms13/django)
