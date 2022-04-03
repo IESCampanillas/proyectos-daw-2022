@@ -29,7 +29,7 @@ Cada alumno debe editar este fichero para incluir sus datos. Se ruega respetar e
 * Javier Moreno Aguilera - [Kubin](https://github.com/javmoreno-developer/Kubin)
 * Nicolás Moreno Sánchez - [django](https://github.com/nicoms13/django)
 * José Manuel Morón Jurado - 
-* Jorge Muñoz Cabrera - 
+* Jorge Muñoz Cabrera - [Lizard](https://github.com/jorgeMunozCampanillas/Lizard/blob/main/README.md)
 * Jesús María Olalla Pérez - 
 * Álvaro Ramírez Escribano - 
 * Francisco Javier Rriveros Racero - 
