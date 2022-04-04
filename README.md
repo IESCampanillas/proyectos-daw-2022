@@ -27,7 +27,7 @@ Cada alumno debe editar este fichero para incluir sus datos. Se ruega respetar e
 * Pablo Mérida Egea - [FitMe](https://github.com/Pablomerida2001/FitMe)
 * María Teresa Milánes Barroso - [StoryFactory](https://github.com/MTeresaMB/StoryFactory)
 * Javier Moreno Aguilera - [Kubin](https://github.com/javmoreno-developer/Kubin)
-* Nicolás Moreno Sánchez - [django](https://github.com/nicoms13/django)
+* Nicolás Moreno Sánchez - [Miskatonic](https://github.com/nicoms13/django)
 * José Manuel Morón Jurado -[SpaceNeo](https://github.com/JMMJ0/Space-NEO)
 * Jorge Muñoz Cabrera - [Lizard](https://github.com/jorgeMunozCampanillas/Lizard/blob/main/README.md)
 * Jesús María Olalla Pérez - [NaturXtrem](https://github.com/Jeolpe/NaturXtrem)
