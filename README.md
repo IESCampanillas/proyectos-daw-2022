@@ -33,7 +33,7 @@ Cada alumno debe editar este fichero para incluir sus datos. Se ruega respetar e
 * Jesús María Olalla Pérez - [NaturXtrem](https://github.com/Jeolpe/NaturXtrem)
 * Álvaro Ramírez Escribano - [ChadHotel](https://github.com/DawAlvaro/ChadHotel)
 * Francisco Javier Rriveros Racero - [CryptoAway](https://github.com/FJ-Riveros/CryptoAway)
-* Ariel Hernán Rojas Favero - 
+* Ariel Hernán Rojas Favero - [reservas](https://github.com/ArielHernan/proyectoFinal)
 
 
 
