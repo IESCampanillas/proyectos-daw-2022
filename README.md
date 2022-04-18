@@ -72,7 +72,11 @@ Mapa ubicación             |
 <a href="https://goo.gl/maps/VGMpWnnpCZJQbP21A" target="_blank"><img src="https://github.com/IESCampanillas/proyectos-dam-2021/blob/master/IESCFP_mapa_ubicacion.png" width="300" /></a> 
 
 
-
+# IMPORTANTE: ISSUE ANTEPROYECTO DESPLIEGUE DE APLICIONES WEB 
+En el Anteproyecto, relativo al despliegue se debe especificar:
+Desplegar la aplicación en la nube: ¿Qué servidor en la nube vas a utilizar? Debes asegurarte que es compatible con las tecnologías que has elegido.
+Dominio: Que dominio vas a utilizar (uno gratuito, uno .es, .com?) Debes asegurarte que puedes enlazarlo al servidor que has elegido.
+SGBD: ¿Vas a alojar la base de datos donde mismo que la web o en un servidor aparte? Alojarlo en un servidor aparte es opcional.
 
 <hr>
 
