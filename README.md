@@ -25,7 +25,7 @@ Cada alumno debe editar este fichero para incluir sus datos. Se ruega respetar e
 * Sebastián González Ríos - [Freedom](https://github.com/SrCbas/Freedom)
 * Juan Pedro Mancera Taboada - [Shisha Word](https://github.com/juan2pedro/ShishaWord)
 * Pablo Mérida Egea - [FitMe](https://github.com/Pablomerida2001/FitMe)
-* María Teresa Milánes Barroso - [StoryFactory](https://github.com/MTeresaMB/StoryFactory)
+* María Teresa Milánes Barroso - [StoryFactory](https://github.com/MTeresaMB/TFC/tree/master/storyfactory)
 * Javier Moreno Aguilera - [Kubin](https://github.com/javmoreno-developer/Kubin)
 * Nicolás Moreno Sánchez - [Miskatonic](https://github.com/nicoms13/django)
 * José Manuel Morón Jurado -[SpaceNeo](https://github.com/JMMJ0/Space-NEO)
