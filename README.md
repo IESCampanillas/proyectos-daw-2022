@@ -60,21 +60,19 @@ Los días de las exposiciones serán el **jueves 23 y el viernes 24 de junio de 
 
 <img height="32px" src="Viewnext-woBG.png">
 
-* 10:00h [Francisco javier Aranda Jiménez]()
+* 10:00h [Francisco Javier Aranda Jiménez]()
 * 10:00h [José Manuel Morón Jurado]()
 * 10:00h [Jesús María Olalla Pérez]()
+* 10:00h [Francisco Javier Rriveros Racero]()
 
-<img height="32px" src="securekids.jpg">
+<img height="32px" src="Freepik-woBG.png">
 
-* 09:15h [Millán Rebollo, Noel]()
+* 09:30h [Isabel Gómez de Travecedo Méndez]()
+* 09:30h [Javier Moreno Aguilera]()
 
-<img height="32px" src="mayoral-woBG.png">
+<img height="32px" src="Nttdata-woBG.png">
 
-* 09:30h [De Abrisqueta Rangel, Ander]()
-
-<img height="32px" src="Rocketfy-woBG.png">
-
-* 09:45h [Salmerón Robles, Gonzalo José]()
+* 09:45h [Sebastián González Ríos]()
 
 
 
