@@ -47,6 +47,7 @@ Cada alumno debe editar este fichero para incluir sus datos. Se ruega respetar e
 
 Los días de las exposiciones serán el **jueves 23 y el viernes 24 de junio de 2022**. La duración de cada exposición será de 10 minutos (5 de exposición y 5 de preguntas), dejando un margen de otros 5 minutos para el cambio. Se deberá llegar unos 5 minutos antes del inicio de la presentación. Aquellos alumnos que aún no hayan finalizado su FCT, asistirán al centro únicamente para la exposición, debiendo regresar posteriormente a sus prácticas en la empresa.
 
+<hr>
 
 ### :calendar: jueves 23 de junio de 2022
 
@@ -88,27 +89,27 @@ Los días de las exposiciones serán el **jueves 23 y el viernes 24 de junio de 
 
 * 10:30h [Rubén Galán Pérez]()
 
+<img height="32px" src="oever.jpg">
+
+* 10:45h [Samuel Blanco Palmero]()
+
+<img height="32px" src="rewe.jpg">
+
+* 11:00h [Jorge Muñoz Cabrera]()
+
 <hr>
 
  🥪 D E S C A N S O ☕
 
 <hr>
 
-<img height="32px" src="oever.jpg">
-
-* 11:45h [Samuel Blanco Palmero]()
-
-<img height="32px" src="rewe.jpg">
-
-* 12:00h [Jorge Muñoz Cabrera]()
-
 <img height="32px" src="plus.jpg">
 
-* 12:15h [Pablo Mérida Egea]()
+* 11:45h [Pablo Mérida Egea]()
 
 <img height="32px" src="tnt.jpg">
 
-* 12:30h [Ián Banderas Tomillo]()
+* 12:00h [Ián Banderas Tomillo]()
 
 <hr>
 
