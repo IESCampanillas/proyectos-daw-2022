@@ -76,7 +76,7 @@ Los días de las exposiciones serán el **jueves 23 y el viernes 24 de junio de 
 
 * 09:45h [Sebastián González Ríos]()
 
-<img height="32px" src="Verisk-woBG.png">
+<img height="32px" src="Verisk Analytics-woBG.png">
 
 * 10:45h [Nicolás Moreno Sánchez]()
 
@@ -89,7 +89,6 @@ Los días de las exposiciones serán el **jueves 23 y el viernes 24 de junio de 
 
 * 10:15h [Morales Aragón, Marcos]()
 * 10:30h [Sevilla Valderrama, Fernando Iván]()
-
 
 
 <img height="32px" src="TraffGen Global-woBG.png">
