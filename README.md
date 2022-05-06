@@ -78,43 +78,26 @@ Los días de las exposiciones serán el **jueves 23 y el viernes 24 de junio de 
 
 <img height="32px" src="Verisk Analytics-woBG.png">
 
-* 10:45h [Nicolás Moreno Sánchez]()
+* 10:00h [Nicolás Moreno Sánchez]()
 
+<img height="32px" src="adivin.jpg">
 
-<img height="32px" src="airzone-woBG.png">
+* 10:15h [Álvaro Ramírez Escribano]()
 
-* 11:00h [Álvaro Ramírez Escribano]()
+<img height="32px" src="summa-woBG.png">
+
+* 10:30h [Rubén Galán Pérez]()
 
 <img height="32px" src="dekra-woBG.png">
 
-* 10:15h [Morales Aragón, Marcos]()
-* 10:30h [Sevilla Valderrama, Fernando Iván]()
+* 10:45h [Morales Aragón, Marcos]()
+* 11:00h [Sevilla Valderrama, Fernando Iván]()
 
+ 🥪 D E S C A N S O ☕
 
-<img height="32px" src="TraffGen Global-woBG.png">
-
-* 11:00h [Alvarado Díaz, Irene]()
 
 <hr>
 
-
-
-* 09:00
-* 09:15
-* 09:30
-* 09:45
-* 10:00
-* 10:15
-* 10:30
-* 10:45
-* 11:00
- 🥪 D E S C A N S O ☕
-* 11:45   
-* 12:00
-* 12:15
-* 12:30
-* 12:45
-* 13:00
 ## :school: Lugar de las exposiciones
 
 Las presentaciones tendrán lugar en el **salón de actos** de la [**Incubadora**](https://goo.gl/maps/VGMpWnnpCZJQbP21A) sito en C/ Frederik Termann, 3. 29590, PTA.
@@ -122,8 +105,6 @@ Las presentaciones tendrán lugar en el **salón de actos** de la [**Incubadora*
 Mapa ubicación             | 
 :-------------------------:|
 <a href="https://goo.gl/maps/VGMpWnnpCZJQbP21A" target="_blank"><img src="https://github.com/IESCampanillas/proyectos-dam-2021/blob/master/IESCFP_mapa_ubicacion.png" width="300" /></a> 
-
-
 
 
 <hr>
