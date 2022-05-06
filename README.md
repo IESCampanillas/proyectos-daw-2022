@@ -95,25 +95,22 @@ Los días de las exposiciones serán el **jueves 23 y el viernes 24 de junio de 
 
  🥪 D E S C A N S O ☕
 
-<img height="32px" src="dekra-woBG.png">
+<img height="32px" src="oever.jpg">
 
-* 10:45h [Samuel Blanco Palmero]()
+* 11:45h [Samuel Blanco Palmero]()
 
 <img height="32px" src="rewe.jpg">
 
-* 10:45h [Jorge Muñoz Cabrera]()
+* 12:00h [Jorge Muñoz Cabrera]()
+
+<img height="32px" src="plus.jpg">
+
+* 12:15h [Pablo Mérida Egea]()
 
 <img height="32px" src="dekra-woBG.png">
 
-* 10:45h [Samuel Blanco Palmero]()
+* 12:30h [Ián Banderas Tomillo]()
 
-<img height="32px" src="dekra-woBG.png">
-
-* 10:45h [Samuel Blanco Palmero]()
-
-Pablo Mérida Egea
-Jorge Muñoz Cabrera
-* 11:00h [Sevilla Valderrama, Fernando Iván]()
 <hr>
 
 ## :school: Lugar de las exposiciones
