@@ -88,11 +88,6 @@ Los días de las exposiciones serán el **jueves 23 y el viernes 24 de junio de 
 
 * 10:30h [Rubén Galán Pérez]()
 
-<img height="32px" src="dekra-woBG.png">
-
-* 10:45h [Morales Aragón, Marcos]()
-* 11:00h [Sevilla Valderrama, Fernando Iván]()
-
 <hr>
 
  🥪 D E S C A N S O ☕
