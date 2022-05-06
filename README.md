@@ -40,12 +40,60 @@ Cada alumno debe editar este fichero para incluir sus datos. Se ruega respetar e
 ## 📝 Fechas a tener en cuenta
 * Anteproyecto: lunes 4 de abril
 * Revisión (checkpoint): viernes 13 de mayo
-* Exposiciones: lunes 20 de junio de 2022
+* Exposiciones: jueves 23 y viernes 24 de junio de 2022
 
 
 ## ⏰ Cuadrante horario de las exposiciones
 
-El día de las exposiciones será el **lunes 20 de junio de 2022**. La duración de cada exposición será de 10 minutos (5 de exposición y 5 de preguntas), dejando un margen de otros 5 minutos para el cambio. Se deberá llegar unos 5 minutos antes del inicio de la presentación. Aquellos alumnos que aún no hayan finalizado su FCT, asistirán al centro únicamente para la exposición, debiendo regresar posteriormente a sus prácticas en la empresa.
+Los días de las exposiciones serán el **jueves 23 y el viernes 24 de junio de 2022**. La duración de cada exposición será de 10 minutos (5 de exposición y 5 de preguntas), dejando un margen de otros 5 minutos para el cambio. Se deberá llegar unos 5 minutos antes del inicio de la presentación. Aquellos alumnos que aún no hayan finalizado su FCT, asistirán al centro únicamente para la exposición, debiendo regresar posteriormente a sus prácticas en la empresa.
+
+
+### :calendar: jueves 23 de junio de 2022
+
+<img height="32px" src="accenture>-woBG.png">
+
+* 11:45h [Ismael Armada González]()
+* 12:00h [Gheorghe Bucurici]()
+* 12:15h [Juan Pedro Mancera Taboada]()
+* 12:30h [Maria Teresa Milanés Barroso]()
+* 12:45h [Ariel Hernán Rojas Favero]()
+
+<img height="32px" src="Viewnext-woBG.png">
+
+* 10:00h [Francisco javier Aranda Jiménez]()
+* 10:00h [José Manuel Morón Jurado]()
+* 10:00h [Jesús María Olalla Pérez]()
+
+<img height="32px" src="securekids.jpg">
+
+* 09:15h [Millán Rebollo, Noel]()
+
+<img height="32px" src="mayoral-woBG.png">
+
+* 09:30h [De Abrisqueta Rangel, Ander]()
+
+<img height="32px" src="Rocketfy-woBG.png">
+
+* 09:45h [Salmerón Robles, Gonzalo José]()
+
+
+
+<img height="32px" src="dekra-woBG.png">
+
+* 10:15h [Morales Aragón, Marcos]()
+* 10:30h [Sevilla Valderrama, Fernando Iván]()
+
+<img height="32px" src="safamotor.jpeg">
+
+* 10:45h [Rodríguez-Barbero Verdera, David]()
+
+<img height="32px" src="TraffGen Global-woBG.png">
+
+* 11:00h [Alvarado Díaz, Irene]()
+
+<hr>
+
+
 
 * 09:00
 * 09:15
