@@ -107,7 +107,7 @@ Los días de las exposiciones serán el **jueves 23 y el viernes 24 de junio de 
 
 * 11:45h [Pablo Mérida Egea]()
 
-<img height="32px" src="tnt.jpg">
+<img height="42px" src="tnt.jpg">
 
 * 12:00h [Ián Banderas Tomillo]()
 
