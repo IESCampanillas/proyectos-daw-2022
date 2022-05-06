@@ -58,32 +58,39 @@ Los días de las exposiciones serán el **jueves 23 y el viernes 24 de junio de 
 * 12:30h [Maria Teresa Milanés Barroso]()
 * 12:45h [Ariel Hernán Rojas Favero]()
 
+### :calendar: viernes 24 de junio de 2022
+
 <img height="32px" src="Viewnext-woBG.png">
 
-* 10:00h [Francisco Javier Aranda Jiménez]()
-* 10:00h [José Manuel Morón Jurado]()
-* 10:00h [Jesús María Olalla Pérez]()
-* 10:00h [Francisco Javier Rriveros Racero]()
+* 08:15h [Francisco Javier Aranda Jiménez]()
+* 08:30h [José Manuel Morón Jurado]()
+* 08:45h [Jesús María Olalla Pérez]()
+* 09:00h [Francisco Javier Rriveros Racero]()
 
 <img height="32px" src="freepik-woBG.png">
 
-* 09:30h [Isabel Gómez de Travecedo Méndez]()
+* 09:15h [Isabel Gómez de Travecedo Méndez]()
 * 09:30h [Javier Moreno Aguilera]()
 
-<img height="32px" src="nttdata-woBG.png">
+<img height="32px" src="NTTData-woBG.png">
 
 * 09:45h [Sebastián González Ríos]()
 
+<img height="32px" src="Verisk-woBG.png">
 
+* 10:45h [Nicolás Moreno Sánchez]()
+
+
+<img height="32px" src="airzone-woBG.png">
+
+* 11:00h [Álvaro Ramírez Escribano]()
 
 <img height="32px" src="dekra-woBG.png">
 
 * 10:15h [Morales Aragón, Marcos]()
 * 10:30h [Sevilla Valderrama, Fernando Iván]()
 
-<img height="32px" src="safamotor.jpeg">
 
-* 10:45h [Rodríguez-Barbero Verdera, David]()
 
 <img height="32px" src="TraffGen Global-woBG.png">
 
