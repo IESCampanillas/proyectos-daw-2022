@@ -81,7 +81,7 @@ Los días de las exposiciones serán el **jueves 23 y el viernes 24 de junio de 
 
 * 10:00h [Nicolás Moreno Sánchez]()
 
-<img height="62px" src="adivin.jpg">
+<img height="72px" src="adivin.jpg">
 
 * 10:15h [Álvaro Ramírez Escribano]()
 
