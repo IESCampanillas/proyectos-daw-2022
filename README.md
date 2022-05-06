@@ -51,7 +51,7 @@ Los días de las exposiciones serán el **jueves 23 y el viernes 24 de junio de 
 
 ### :calendar: jueves 23 de junio de 2022
 
-<img height="32px" src="accenture>-woBG.png">
+<img height="46px" src="accenture>-woBG.png">
 
 * 11:45h [Ismael Armada González]()
 * 12:00h [Gheorghe Bucurici]()
