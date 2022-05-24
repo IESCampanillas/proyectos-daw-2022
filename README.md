@@ -15,7 +15,7 @@ Cada alumno debe añadir su **apellido** y **nombre** por **orden alfabético** 
 Cada alumno debe editar este fichero para incluir sus datos. Se ruega respetar el orden de lista.
 
 * Apellidos, Nombre - [Nombre del proyecto](https://github.com/nombre_del_repositorio)
-* Francisco Javier Aranda Jiménez - [PaCocinas](https://github.com/PacoAranda/PaCocinas)
+* Francisco Javier Aranda Jiménez - [ViewGym](https://github.com/PacoAranda/ViewGym)
 * Ismael Armada González - [Knox](https://github.com/Archerus35/KNOX.git)
 * Ián Banderas Tomillo - [FoodLovers](https://github.com/ianbanderas/ProjectoDAW)
 * Samuel Blanco Palmero - [SpaceBP](https://github.com/samubp10/SpaceBP)
