@@ -40,6 +40,7 @@ Cada alumno debe editar este fichero para incluir sus datos. Se ruega respetar e
 ## 📝 Fechas a tener en cuenta
 * Anteproyecto: lunes 4 de abril
 * Revisión (checkpoint): viernes 13 de mayo
+* Entrega de proyecto: viernes 17 de junio
 * Exposiciones: jueves 23 y viernes 24 de junio de 2022
 
 
